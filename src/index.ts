@@ -35,8 +35,7 @@ const typeDefs = `
 
   type Query {
     books: [Book]
-    hello: String
-    countries: 
+    hello: String 
   }
  
 `;
